@@ -1,5 +1,4 @@
 #List of DevOps Engineers 
-Simon
 Eric
 Ken
 Jessica
